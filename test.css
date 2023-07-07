@@ -69,3 +69,30 @@
     align-items: center;
     padding: 10px;
 }
+.sb{
+    font-size: 18px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+.box1{
+    width: 230px;
+    height: 280px;
+    font-size: 18px;
+    box-shadow: 4px 4px 15px rgb(114, 51, 51);
+    background-color: black;
+    color: aliceblue;
+    padding: 10px;
+}
+.box-btn{
+    background-color: gray;
+    margin-top: 10px;
+}
+.box-des{
+    padding: 10px;
+}
+.box{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    
+}
